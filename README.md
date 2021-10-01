@@ -23,3 +23,4 @@ To demonstrate nutritional quality of a specific food, the Public Health Agency 
 - [Nutri-score - Santé Publique France](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/articles/nutri-score)
 - [Réglement d'usage du nutri-score - Santé Publique France (PDF)](https://www.santepubliquefrance.fr/media/files/02-determinants-de-sante/nutrition-et-activite-physique/nutri-score/reglement-usage)
 - [Plotly Python library](https://plotly.com/python/)
+- [Voilà!: Jupyter notebooks into standalone web applications](https://blog.jupyter.org/and-voil%C3%A0-f6a2c08a4a93)
