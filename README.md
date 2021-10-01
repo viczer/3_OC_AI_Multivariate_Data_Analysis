@@ -19,3 +19,6 @@ To demonstrate nutritional quality of a specific food, the Public Health Agency 
 
 # References
 :pushpin: 
+- [Learn about the composition of foods - CIQUAL table](https://ciqual.anses.fr/#/cms/questions-reponses/node/23)
+- [Nutri-score - Santé Publique France](https://www.santepubliquefrance.fr/determinants-de-sante/nutrition-et-activite-physique/articles/nutri-score)
+- [Réglement d'usage du nutri-score - Santé Publique France (PDF)](https://www.santepubliquefrance.fr/media/files/02-determinants-de-sante/nutrition-et-activite-physique/nutri-score/reglement-usage)
