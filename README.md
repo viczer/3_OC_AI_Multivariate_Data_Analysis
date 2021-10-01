@@ -15,7 +15,7 @@ To demonstrate nutritional quality of a specific food, the Public Health Agency 
 <img src="./pictures\nutri_score_logo.png">
 
 # Dependencies
-:computer: 
+:computer: Jupyter Notebook (Anaconda), Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy, Scikit-learn, mlxtend, ipywidgets, worldcloud, Collections, Voilà!
 
 # References
 :pushpin: 
