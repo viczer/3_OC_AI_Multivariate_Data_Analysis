@@ -3,6 +3,7 @@
 
 # Dataset
 <img src="./pictures\openfoodfacts_logo.png">
+
 [Open Food Facts](https://world.openfoodfacts.org/) dataset, *made by everyone, for everyone*.
 
 :kiwi_fruit: :carrot: :cheese: :cut_of_meat: :milk_glass:
