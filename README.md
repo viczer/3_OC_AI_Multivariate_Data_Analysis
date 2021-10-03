@@ -10,13 +10,13 @@
 # Criteria for qualifying healthy food 
 :green_salad: Is a green salad always healthy ?
 
-From my opinion, a quality diet contains foods with little salt or sugar, less fat, perhaps organic, as few additives as possible, and maybe without palm oil.
-
 To demonstrate nutritional quality of a specific food, the Public Health Agency has created an indicator: the Nutri Score.
 
 <img src="./pictures\nutri_score_logo.png">
 
-But, I've added my personal scoring to be able to compare the foods.
+From my opinion, a quality diet contains foods with little salt or sugar, less fat, perhaps organic, as few additives as possible, and maybe without palm oil.
+
+Thus, I've added my personal scoring to be able to compare the foods.
 
 <img src="./pictures\personal_scoring_criteria.png">
 
