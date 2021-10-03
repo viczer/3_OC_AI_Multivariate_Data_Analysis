@@ -16,6 +16,10 @@ To demonstrate nutritional quality of a specific food, the Public Health Agency 
 
 <img src="./pictures\nutri_score_logo.png">
 
+But, I've added my personal scoring to be able to compare the foods.
+
+<img src="./pictures\personal_scoring_criteria.png">
+
 We will try to explore the dataset with these criteria in mind.
 
 # Dependencies
