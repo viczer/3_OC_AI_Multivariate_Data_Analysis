@@ -10,9 +10,13 @@
 # Criteria for qualifying healthy food 
 :green_salad: Is a green salad always healthy ?
 
+From my opinion, a quality diet contains foods with little salt or sugar, less fat, perhaps organic, as few additives as possible, and maybe without palm oil.
+
 To demonstrate nutritional quality of a specific food, the Public Health Agency has created an indicator: the Nutri Score.
 
 <img src="./pictures\nutri_score_logo.png">
+
+We will try to explore the dataset with these criteria in mind.
 
 # Dependencies
 :computer: Jupyter Notebook (Anaconda), Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy, Scikit-learn, mlxtend, ipywidgets, worldcloud, Collections, Voilà!
